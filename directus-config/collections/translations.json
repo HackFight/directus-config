@@ -6,6 +6,12 @@
     "value": "about"
   },
   {
+    "_syncId": "0509e972-d533-4718-a131-16191a9643d1",
+    "key": "games",
+    "language": "fr-FR",
+    "value": "jeux"
+  },
+  {
     "_syncId": "06282670-b775-44b3-8877-f9b931c6c6bf",
     "key": "gamestar.seeAllEvents",
     "language": "en-US",
@@ -34,6 +40,12 @@
     "key": "event",
     "language": "en-US",
     "value": "event"
+  },
+  {
+    "_syncId": "13aa157f-e146-4d0a-b98c-f09aae3419d7",
+    "key": "games",
+    "language": "en-US",
+    "value": "games"
   },
   {
     "_syncId": "1a100fa6-7d4c-409b-a23b-1df7edf1a6b3",

@@ -1583,6 +1583,18 @@
     "validation": {}
   },
   {
+    "_syncId": "d0d9bfbf-0df1-4944-8bba-f1ff5fa7bbc1",
+    "action": "read",
+    "collection": "game_star_games_translations",
+    "fields": [
+      "*"
+    ],
+    "permissions": null,
+    "policy": "5442dac0-5f51-434d-90b1-285734ff8e49",
+    "presets": null,
+    "validation": null
+  },
+  {
     "_syncId": "d52f3485-971d-4ecb-aef1-9e1c44670c6a",
     "action": "read",
     "collection": "galleries",
@@ -1653,6 +1665,18 @@
     "policy": "5442dac0-5f51-434d-90b1-285734ff8e49",
     "presets": null,
     "validation": {}
+  },
+  {
+    "_syncId": "fe5d4cb2-a641-407b-a231-44ae3272ceba",
+    "action": "read",
+    "collection": "game_star_games",
+    "fields": [
+      "*"
+    ],
+    "permissions": null,
+    "policy": "5442dac0-5f51-434d-90b1-285734ff8e49",
+    "presets": null,
+    "validation": null
   },
   {
     "_syncId": "5eba4ee8-f6f2-49cc-ae78-1996cf7bfe0d",
@@ -2923,6 +2947,18 @@
     "validation": null
   },
   {
+    "_syncId": "a6d288c3-dc39-46bd-b3bc-3f5b56b2ed70",
+    "action": "create",
+    "collection": "game_star_games_translations",
+    "fields": [
+      "*"
+    ],
+    "permissions": null,
+    "policy": "b4a65686-320b-4a32-85f0-aa255327369a",
+    "presets": null,
+    "validation": null
+  },
+  {
     "_syncId": "b8c0a1d8-3e7f-42fc-a392-68fea9235c5e",
     "action": "create",
     "collection": "game_star_translations",
@@ -2935,9 +2971,33 @@
     "validation": null
   },
   {
+    "_syncId": "d60bc98b-7360-469b-85c2-940f197e22f4",
+    "action": "create",
+    "collection": "game_star_games",
+    "fields": [
+      "*"
+    ],
+    "permissions": null,
+    "policy": "b4a65686-320b-4a32-85f0-aa255327369a",
+    "presets": null,
+    "validation": null
+  },
+  {
     "_syncId": "ffa0e468-bf5a-413b-92a6-b44f9f48d6ca",
     "action": "create",
     "collection": "game_star_articles_members",
+    "fields": [
+      "*"
+    ],
+    "permissions": null,
+    "policy": "b4a65686-320b-4a32-85f0-aa255327369a",
+    "presets": null,
+    "validation": null
+  },
+  {
+    "_syncId": "1217d531-4a80-4058-8508-ca883e17c528",
+    "action": "delete",
+    "collection": "game_star_games",
     "fields": [
       "*"
     ],
@@ -2962,6 +3022,18 @@
     "_syncId": "32da2a28-66b3-4b27-b6d7-cca9a0f29b7e",
     "action": "delete",
     "collection": "game_star_articles_translations",
+    "fields": [
+      "*"
+    ],
+    "permissions": null,
+    "policy": "b4a65686-320b-4a32-85f0-aa255327369a",
+    "presets": null,
+    "validation": null
+  },
+  {
+    "_syncId": "374c3b8d-e806-4c6d-a7a5-250dee56bea9",
+    "action": "delete",
+    "collection": "game_star_games_translations",
     "fields": [
       "*"
     ],
@@ -3079,6 +3151,18 @@
     "validation": null
   },
   {
+    "_syncId": "13f131f5-f031-4cbc-9b0f-3dfa284b1c61",
+    "action": "read",
+    "collection": "game_star_games",
+    "fields": [
+      "*"
+    ],
+    "permissions": null,
+    "policy": "b4a65686-320b-4a32-85f0-aa255327369a",
+    "presets": null,
+    "validation": null
+  },
+  {
     "_syncId": "260d7398-e628-42b4-abc3-f5812820c246",
     "action": "read",
     "collection": "game_star_events_translations",
@@ -3118,6 +3202,18 @@
     "_syncId": "528a0862-1dde-4d68-a2b6-a196dd32077a",
     "action": "read",
     "collection": "game_star_events",
+    "fields": [
+      "*"
+    ],
+    "permissions": null,
+    "policy": "b4a65686-320b-4a32-85f0-aa255327369a",
+    "presets": null,
+    "validation": null
+  },
+  {
+    "_syncId": "762e6cf1-315a-4a1b-9ed9-30c7998b614f",
+    "action": "read",
+    "collection": "game_star_games_translations",
     "fields": [
       "*"
     ],
@@ -3274,6 +3370,30 @@
     "_syncId": "9f73d751-e7bc-4dc4-bec7-df662bf267ca",
     "action": "update",
     "collection": "game_star_projects",
+    "fields": [
+      "*"
+    ],
+    "permissions": null,
+    "policy": "b4a65686-320b-4a32-85f0-aa255327369a",
+    "presets": null,
+    "validation": null
+  },
+  {
+    "_syncId": "a248054c-40ad-45c9-8715-167e3581b412",
+    "action": "update",
+    "collection": "game_star_games_translations",
+    "fields": [
+      "*"
+    ],
+    "permissions": null,
+    "policy": "b4a65686-320b-4a32-85f0-aa255327369a",
+    "presets": null,
+    "validation": null
+  },
+  {
+    "_syncId": "c184e1b0-ddf7-4209-88e0-325b2280a1c4",
+    "action": "update",
+    "collection": "game_star_games",
     "fields": [
       "*"
     ],
