@@ -13,7 +13,7 @@
     "note": null,
     "options": null,
     "readonly": false,
-    "required": true,
+    "required": false,
     "sort": 6,
     "special": null,
     "translations": null,
