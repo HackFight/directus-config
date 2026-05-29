@@ -6701,6 +6701,7 @@ export interface components {
         ItemsGameStarGames: {
             id?: number;
             slug: string;
+            /** @description Number in the URL at: your game > Widgets > Embed game > Direct link */
             embed_id: number;
             href: string;
             name: string;

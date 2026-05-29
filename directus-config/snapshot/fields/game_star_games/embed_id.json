@@ -10,7 +10,7 @@
     "group": null,
     "hidden": false,
     "interface": "input",
-    "note": null,
+    "note": "Number in the URL at: your game > Widgets > Embed game > Direct link",
     "options": {
       "min": 0,
       "placeholder": "6841164"
